@@ -1,3 +1,5 @@
+**NOTE: This was a group assignment. View all commits carefully to get an insight into my abilities. The end result is suboptimal due to complications during this project. Please contact me for more information.**
+
 <p align="center"><img src="./app/src/main/ic_launcher-web.png?raw=true" width="200px"/></p>
 
 <h1 align="center">Kolveniershof Android application</h1>
@@ -42,13 +44,13 @@ You can download the application on the Google Play store.
 1. Clone this repo
 
     ```bash
-    git clone https://github.com/HoGent-Projecten3/projecten3-1920-android-kolv02
+    git clone https://github.com/RubenDeFreyne/Kolveniershof-android
     ```
 
 2. Open the project in Android Studio
 
     ```bash
-    studio projecten3-1920-android-kolv02
+    studio Kolveniershof-android
     ```
 
 3. Run the project on an emulator or physical device
@@ -96,6 +98,6 @@ The sourcecode for this server is located [here](https://github.com/HoGent-Proje
 
 ## Team
 
-| <a href="https://github.com/JakobLierman" target="_blank">**Jakob Lierman**</a> | <a href="https://github.com/RubenDeFreyne" target="_blank">**Ruben De Freyne**</a>  | <a href="https://github.com/VictorOwnt" target="_blank">**Victor Van Hulle**</a> | <a href="https://github.com/reeveng" target="_blank">**Reeven Govaert**</a> | <a href="https://github.com/SWeB06" target="_blank">**Sebastien Wojtyla**</a> |<a href="https://github.com/WoutMaes" target="_blank">**Wout Maes**</a> |
+| <a href="https://github.com/RubenDeFreyne" target="_blank">**Ruben De Freyne**</a> | <a href="https://github.com/JakobLierman" target="_blank">**Jakob Lierman**</a> | <a href="https://github.com/VictorOwnt" target="_blank">**Victor Van Hulle**</a> | <a href="https://github.com/reeveng" target="_blank">**Reeven Govaert**</a> | <a href="https://github.com/SWeB06" target="_blank">**Sebastien Wojtyla**</a> |<a href="https://github.com/WoutMaes" target="_blank">**Wout Maes**</a> |
 | --- | --- | --- | --- | --- | --- |
 | [![Jakob](https://avatars2.githubusercontent.com/u/25779630?s=200)](https://github.com/JakobLierman) | [![Ruben](https://avatars2.githubusercontent.com/u/25815999?s=200)](https://github.com/RubenDeFreyne) | [![Victor](https://avatars2.githubusercontent.com/u/17174095?s=200)](https://github.com/VictorOwnt) | [![Reeven](https://avatars3.githubusercontent.com/u/36441093?s=200)](https://github.com/reeveng)| [![Sebastien](https://avatars2.githubusercontent.com/u/36441058?s=200)](https://github.com/SWeB06) | [![Wout](https://avatars0.githubusercontent.com/u/36442271?s=200)](https://github.com/WoutMaes)
