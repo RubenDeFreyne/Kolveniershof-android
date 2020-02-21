@@ -85,7 +85,7 @@ This application relies on a REST backend server.
 2. Change the value for `BASE_URL` to your own link.
 3. Create a new Firebase project and change the `google-services.json` file accordingly.
 
-The sourcecode for this server is located [here](https://github.com/HoGent-Projecten3/projecten3-1920-backend-kolv02). The server is hosted by [Heroku](https://www.heroku.com/) [![Heroku Backend Status](http://heroku-shields.herokuapp.com/kolv02-backend)](https://kolv02-backend.herokuapp.com).
+The sourcecode for this server is located [here](https://github.com/JakobLierman/Kolveniershof-backend). The server is hosted by [Heroku](https://www.heroku.com/) [![Heroku Backend Status](http://heroku-shields.herokuapp.com/kolv02-backend)](https://kolv02-backend.herokuapp.com).
 
 ## Built With
 
